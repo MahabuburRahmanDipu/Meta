@@ -129,11 +129,11 @@ button{
 /* mobile view start */
 @media only screen and (max-width:925px) {    
     .form_img{
-        top: 22rem;
-        right: -11rem;
+        top: 20rem;
+        right: -6rem;
     }
     .form_img img{
-        width: 500px;
+        width: 370px;
     }
 
     form{
@@ -144,7 +144,7 @@ button{
     }
 
     .form{
-        padding: 35px 30px;
+        padding: 28px 30px;
     }
     .form p{
         font-size: 14.7px;
@@ -184,6 +184,7 @@ button{
 @media only screen and (max-width:570px) {
     form{
         width: 80vw;
+        height: auto;
     }    
 }
 /* mobile view end */

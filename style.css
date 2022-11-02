@@ -474,7 +474,7 @@ nav{
 
 @media screen and (max-width:450px) {
     .bg_text h1{
-        top: 10%;
+        top: 11%;
         left: 31px;
         font-size: 14.5vw;
         line-height: 60px;
@@ -482,31 +482,31 @@ nav{
 
     .main_info h1{
         left: 34px;
-        top: 120px;
+        top: 105px;
         font-size: 39px;
         line-height: 43px;
     }
     .main_info p{
         width: 280px;
-        top: 220px;
+        top: 200px;
         font-size: 13px;
         line-height: 17px;
     }
     .main_info a{
-        width: 100px;
-        height: 35px;
-        top: 315px;
-        font-size: 12px;
+        width: 108px;
+        height: 38px;
+        top: 290px;
+        font-size: 13px;
         line-height: 35px;
         border-radius: 6px;
     }
     .img1{
         left: 15%;
-        bottom: 36%;
+        bottom: 30%;
         z-index: 1;
     }
     .img1 img{
-        width: 170px;
+        width: 150px;
     }
 
     .img2{
@@ -515,7 +515,7 @@ nav{
         z-index: 1;
     }
     .img2 img{
-        width: 220px;
+        width: 190px;
     }
 
     .main_content{
